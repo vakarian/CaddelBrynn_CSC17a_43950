@@ -25,11 +25,13 @@ using namespace std;
 
 //Function Prototypes
 Settings *create(short, short);
+Settings::Difficulty convert(short);
+bool check(short, short, Settings::Difficulty);
+bool hasWon(Settings *);
+bool cont(Settings *, short, short);
 void destroy(Settings *);   //Deallocates dynamic memory
 void revealM(Settings *);   //Reveals location of mines
 void hideMines(Settings *); //Function that hides location of mines
-Settings::Difficulty convert(short);
-bool check(short, short, Settings::Difficulty);
 short nMines(Settings::Difficulty);
 void setMines(Settings *);
 void setFlags(Settings *);
@@ -38,8 +40,6 @@ bool noMine(Settings *, short, short);
 void clrArea(Settings *, short, short);
 void setPerim(Settings *);
 void showZeros(Settings *, short, short);
-bool hasWon(Settings *);
-bool cont(Settings *, short, short);
 void playMS(short, short, Settings::Difficulty);
 void userIn(short&, Settings::Difficulty&);
 char *userName();
