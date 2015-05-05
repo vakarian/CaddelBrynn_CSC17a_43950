@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=minesweeper-revision
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/minesweeper-revision
+CND_ARTIFACT_NAME_Debug=minesweeper-finished
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/minesweeper-finished
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=minesweeper-revision.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/minesweeper-revision.tar
+CND_PACKAGE_NAME_Debug=minesweeper-finished.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/minesweeper-finished.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=minesweeper-revision
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/minesweeper-revision
+CND_ARTIFACT_NAME_Release=minesweeper-finished
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/minesweeper-finished
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=minesweeper-revision.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/minesweeper-revision.tar
+CND_PACKAGE_NAME_Release=minesweeper-finished.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/minesweeper-finished.tar
 #
 # include compiler specific variables
 #

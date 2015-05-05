@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=MineSweeper-revision
+PROJECTNAME=MineSweeper-Finished
 
 # Active Configuration
 DEFAULTCONF=Debug
