@@ -3,7 +3,7 @@
  * Author: Brynn Caddel
  * Project 1 - MineSweeper 
  * CSC17A 43950
- */
+ */ 
 
 ///System Libraries
 #include <cstdlib>
